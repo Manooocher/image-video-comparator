@@ -15,8 +15,8 @@
 
 1.  **کلون کردن مخزن:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Manooocher/image-video-comparator
+    cd https://github.com/Manooocher/image-video-comparator/
     ```
 
 2.  **ایجاد محیط مجازی (اختیاری اما توصیه می شود):**
